@@ -1,0 +1,16 @@
+﻿  Source.cpp
+E:\Uni\AVANCE PIA PROGRA\avance\avance\Source.cpp(35,25): error C2065: 'fSecundario1': identificador no declarado
+E:\Uni\AVANCE PIA PROGRA\avance\avance\Source.cpp(64,25): error C2065: 'BTN_REGISTRARTE': identificador no declarado
+E:\Uni\AVANCE PIA PROGRA\avance\avance\Source.cpp(65,25): error C2065: 'IDD_TERCIARIO': identificador no declarado
+E:\Uni\AVANCE PIA PROGRA\avance\avance\Source.cpp(69,30): error C2065: 'BTN_ATRAS_REGISTRARTE': identificador no declarado
+E:\Uni\AVANCE PIA PROGRA\avance\avance\Source.cpp(93,25): error C2065: 'BTN_CARGAR_IMAGEN': identificador no declarado
+E:\Uni\AVANCE PIA PROGRA\avance\avance\Source.cpp(100,28): error C2440: '=': no se puede realizar la conversión de 'char [260]' a 'LPWSTR'
+E:\Uni\AVANCE PIA PROGRA\avance\avance\Source.cpp(100,20): message : Los tipos señalados no están relacionados; la conversión requiere reinterpret_cast, conversión de estilo de C o conversión de estilo de función
+E:\Uni\AVANCE PIA PROGRA\avance\avance\Source.cpp(102,27): error C2440: '=': no se puede realizar la conversión de 'const char [4]' a 'LPCWSTR'
+E:\Uni\AVANCE PIA PROGRA\avance\avance\Source.cpp(102,22): message : Los tipos señalados no están relacionados; la conversión requiere reinterpret_cast, conversión de estilo de C o conversión de estilo de función
+E:\Uni\AVANCE PIA PROGRA\avance\avance\Source.cpp(104,94): error C2440: '=': no se puede realizar la conversión de 'const char [66]' a 'LPCWSTR'
+E:\Uni\AVANCE PIA PROGRA\avance\avance\Source.cpp(104,22): message : Los tipos señalados no están relacionados; la conversión requiere reinterpret_cast, conversión de estilo de C o conversión de estilo de función
+E:\Uni\AVANCE PIA PROGRA\avance\avance\Source.cpp(107,102): error C2664: 'HANDLE LoadImageW(HINSTANCE,LPCWSTR,UINT,int,int,UINT)': el argumento 2 no puede convertirse de 'char [260]' a 'LPCWSTR'
+E:\Uni\AVANCE PIA PROGRA\avance\avance\Source.cpp(107,55): message : Los tipos señalados no están relacionados; la conversión requiere reinterpret_cast, conversión de estilo de C o conversión de estilo de función
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\winuser.h(10824,1): message : vea la declaración de 'LoadImageW'
+E:\Uni\AVANCE PIA PROGRA\avance\avance\Source.cpp(108,39): error C2065: 'PB_FOTO': identificador no declarado

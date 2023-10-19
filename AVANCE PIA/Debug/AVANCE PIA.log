@@ -1,0 +1,14 @@
+﻿  Source.cpp
+E:\Uni\AVANCE PIA PROGRA\AVANCE PIA\Source.cpp(312,27): warning C4244: 'inicializando': conversión de 'std::streamoff' a 'int'; posible pérdida de datos
+E:\Uni\AVANCE PIA PROGRA\AVANCE PIA\Source.cpp(317,21): warning C4018: '<': no coinciden signed/unsigned
+E:\Uni\AVANCE PIA PROGRA\AVANCE PIA\Source.cpp(390,17): warning C4244: 'inicializando': conversión de 'std::streamoff' a 'int'; posible pérdida de datos
+E:\Uni\AVANCE PIA PROGRA\AVANCE PIA\Source.cpp(396,21): warning C4018: '<': no coinciden signed/unsigned
+E:\Uni\AVANCE PIA PROGRA\AVANCE PIA\Source.cpp(474,17): warning C4244: 'inicializando': conversión de 'std::streamoff' a 'int'; posible pérdida de datos
+E:\Uni\AVANCE PIA PROGRA\AVANCE PIA\Source.cpp(480,21): warning C4018: '<': no coinciden signed/unsigned
+E:\Uni\AVANCE PIA PROGRA\AVANCE PIA\Source.cpp(778,19): warning C4834: se descarta el valor devuelto de la función con el atributo "nodiscard"
+E:\Uni\AVANCE PIA PROGRA\AVANCE PIA\Source.cpp(1005,18): warning C4834: se descarta el valor devuelto de la función con el atributo "nodiscard"
+E:\Uni\AVANCE PIA PROGRA\AVANCE PIA\Source.cpp(1147,18): warning C4834: se descarta el valor devuelto de la función con el atributo "nodiscard"
+E:\Uni\AVANCE PIA PROGRA\AVANCE PIA\Source.cpp(1171,19): warning C4834: se descarta el valor devuelto de la función con el atributo "nodiscard"
+E:\Uni\AVANCE PIA PROGRA\AVANCE PIA\Source.cpp(2127,23): warning C4244: '=': conversión de 'double' a 'int'; posible pérdida de datos
+E:\Uni\AVANCE PIA PROGRA\AVANCE PIA\Source.cpp(2576,23): warning C4244: '=': conversión de 'double' a 'int'; posible pérdida de datos
+  AVANCE PIA.vcxproj -> E:\Uni\AVANCE PIA PROGRA\Debug\AVANCE PIA.exe
