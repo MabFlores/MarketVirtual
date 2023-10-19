@@ -1,0 +1,10 @@
+﻿  Source.cpp
+C:\Users\tono1\Documents\Facu\3ro\Progra Avanzada\AVANCE PIA PROGRA\AVANCE PIA PROGRA\Source.cpp(45,67): error C2664: 'int GetWindowTextW(HWND,LPWSTR,int)': el argumento 2 no puede convertirse de 'char [50]' a 'LPWSTR'
+C:\Users\tono1\Documents\Facu\3ro\Progra Avanzada\AVANCE PIA PROGRA\AVANCE PIA PROGRA\Source.cpp(45,38): message : Los tipos señalados no están relacionados; la conversión requiere reinterpret_cast, conversión de estilo de C o conversión de estilo de función
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\winuser.h(8923,1): message : vea la declaración de 'GetWindowTextW'
+C:\Users\tono1\Documents\Facu\3ro\Progra Avanzada\AVANCE PIA PROGRA\AVANCE PIA PROGRA\Source.cpp(46,5): error C2065: 'string': identificador no declarado
+C:\Users\tono1\Documents\Facu\3ro\Progra Avanzada\AVANCE PIA PROGRA\AVANCE PIA PROGRA\Source.cpp(46,12): error C2146: error de sintaxis: falta ';' delante del identificador 'siniciarsesion'
+C:\Users\tono1\Documents\Facu\3ro\Progra Avanzada\AVANCE PIA PROGRA\AVANCE PIA PROGRA\Source.cpp(46,12): error C3861: 'siniciarsesion': no se encontró el identificador
+C:\Users\tono1\Documents\Facu\3ro\Progra Avanzada\AVANCE PIA PROGRA\AVANCE PIA PROGRA\Source.cpp(47,22): error C2065: 'siniciarsesion': identificador no declarado
+C:\Users\tono1\Documents\Facu\3ro\Progra Avanzada\AVANCE PIA PROGRA\AVANCE PIA PROGRA\Source.cpp(47,65): error C2660: 'MessageBoxW': la función no acepta 3 argumentos
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\winuser.h(9153,1): message : vea la declaración de 'MessageBoxW'
